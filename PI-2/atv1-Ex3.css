@@ -1,0 +1,43 @@
+.header{
+    background-color: khaki; 
+    height: 350px; 
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    
+    
+}
+
+.container {
+    background-color: floralwhite; 
+    height: 250px; 
+    width: 1000px;
+}
+
+.paragrafo{
+    color:#fff; 
+    background-color:gray;
+    width: 1000px;
+    height: 130px;
+    font-family: monospace;
+     font-size: 70px; 
+    font-weight: bold;
+}
+
+.terceira_div{
+    background-color: indianred; 
+    background-position: 50px;
+    width: 1000px; 
+    height: 200px;
+    margin: auto;
+    
+}
+    
+.quarta_div{
+    background-color:black; 
+    width: 1000px;
+    height: 100px;
+}

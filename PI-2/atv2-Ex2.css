@@ -1,0 +1,99 @@
+.primeiradiv{
+    background-color: rgb(221, 160, 221); 
+    height: 250px; 
+    width: 100%;
+    border: 2px solid green;
+    margin-top: 100px;
+}
+
+.segundadiv {
+    background-color: black; 
+    height: 50vh; 
+    width: 50%;
+    border: 10px dashed red;
+    margin: 100px;
+    
+     
+}
+
+
+paragrafo{
+    color:#fff; 
+    background-color:gray;
+    width: 1000px;
+    height: 130px;
+    font-family: monospace;
+     font-size: 70px; 
+    font-weight: bold;
+}
+
+terceiradiv{
+    background-color: indianred; 
+    background-position: 50px;
+    width: 1000px; 
+    height: 200px;
+    margin: auto;
+    
+}
+    
+quartadiv{
+    background-color:black; 
+    width: 1000px;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*Começo do Banner*/
+.banner{
+    height: 500px;
+    background-image: url("imgs/bg-jelly-fish-para-home.png");
+    background-size: cover;
+}
+
+.banner .card{
+    background-color: beige;
+    height:450px ;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.card{
+    margin-top: 20px;
+}
+
+.btn{
+    font-family: monospace;
+    margin-top: 10px;
+    border: 0;
+    font-weight: 600;
+    background-color: #e75459;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 15px;
+}
+
+input{
+    height: 30px;
+    border: 2px solid #e75459;
+    border-radius: 4px;
+}
+
+.banner .card{
+    color: #e75459;
+}
